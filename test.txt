@@ -1,10 +1,1 @@
- Volume in drive E is New Volume
- Volume Serial Number is 50C5-E631
-
- Directory of E:\workspace\GITProject
-
-05/15/2018  02:33 PM    <DIR>          .
-05/15/2018  02:33 PM    <DIR>          ..
-05/15/2018  02:33 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  189,513,568,256 bytes free
+change 1
